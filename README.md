@@ -1,0 +1,2 @@
+# amail
+a email tool
